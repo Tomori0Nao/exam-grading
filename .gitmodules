@@ -1,0 +1,3 @@
+[submodule "rustlings"]
+	path = rustlings
+	url = https://github.com/Tomori0Nao/rusting_exam.git
